@@ -1,6 +1,6 @@
 # my_profile_instagram_clone
 
-Instagram UI clone with flutter frameworks .🤞🪄
+# Instagram UI clone with flutter frameworks .🤞🪄
 
 # Home_page
 
