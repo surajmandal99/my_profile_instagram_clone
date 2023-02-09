@@ -1,10 +1,6 @@
 # my_profile_instagram_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for Instagram UI clone .🤞🪄
+Instagram UI clone with flutter frameworks .🤞🪄
 
 # Home_page
 
